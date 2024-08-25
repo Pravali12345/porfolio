@@ -1,9 +1,19 @@
 # portfolio
-# Data Scientist
+# Data Science Enthusiast
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Python, R, SQL, MATLAB, MongoDB, Tableau, Microsoft Office
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- M.S., Computer Science | University of Central Missouri (_Expected Graduation, May 2025_)								       			 			        		
+- B.Tech., Computer Science (Spl Data Analytics) | Vellore Institute of Technology (_May 2023_)
+## Work Experience
+**Open source project @ HydroTek Farm (Github) (_May 2024 — Present_)**
+- Scaled the project by integrating a camera for disease detection in hydroponic farms and trained a model using Roboflow to predict plant diseases and notify customers with treatment steps.
+- We are about to integrate the model into an NVIDIA Jetson, connecting it to an IoT box for real-time monitoring.
+- Led efforts in gathering information on specific plants and played a crucial role in updating the state diagram.
+
+**Data Intern @ LTI Mindtree (_Feb 2023 — June 2023_)**
+- Received training in basic data science software and principles, significantly improving accuracy levels during the internship.
+
+## Projects
+### Data-Driven EEG Band Discovery with Decision Trees
