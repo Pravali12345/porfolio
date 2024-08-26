@@ -7,7 +7,9 @@
 ## Education
 - M.S.Computer Science | University of Central Missouri (Expected Graduation, May 2025)								       			 			        		
 - B.Tech.Computer Science(Spl DataAnalytics) | Vellore Institute of Technology (May 2023)
+
 ## Work Experience
+
 **Open source project @ HydroTek Farm (Github) (_May 2024 — Present_)**
 - Expanded the project by incorporating a camera for hydroponic farm disease detection and training a model with Roboflow to predict plant diseases and provide clients with remediation instructions.
 - The model will soon be integrated into an NVIDIA Jetson, which will be connected to an Iot box for real-time monitoring.
