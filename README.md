@@ -1,16 +1,17 @@
-# portfolio
+# Portfolio
 # Data Science Enthusiast
 
 #### Technical Skills: Python, R, SQL, MATLAB, MongoDB, Tableau, Microsoft Office
+#### Data Science Libraries: Pandas, NumPy, OpenCV, Matplotlib, Seaborn, sklearn, scikit-learn, TensorFlow, SciPy
 
 ## Education
-- M.S., Computer Science | University of Central Missouri (_Expected Graduation, May 2025_)								       			 			        		
-- B.Tech., Computer Science (Spl Data Analytics) | Vellore Institute of Technology (_May 2023_)
+- M.S.Computer Science | University of Central Missouri (Expected Graduation, May 2025)								       			 			        		
+- B.Tech.Computer Science(Spl DataAnalytics) | Vellore Institute of Technology (May 2023)
 ## Work Experience
 **Open source project @ HydroTek Farm (Github) (_May 2024 — Present_)**
-- Scaled the project by integrating a camera for disease detection in hydroponic farms and trained a model using Roboflow to predict plant diseases and notify customers with treatment steps.
-- We are about to integrate the model into an NVIDIA Jetson, connecting it to an IoT box for real-time monitoring.
-- Led efforts in gathering information on specific plants and played a crucial role in updating the state diagram.
+- Expanded the project by incorporating a camera for hydroponic farm disease detection and training a model with Roboflow to predict plant diseases and provide clients with remediation instructions.
+- The model will soon be integrated into an NVIDIA Jetson, which will be connected to an Iot box for real-time monitoring.
+- Led the charge in assembling data on particular plants and was instrumental in updating the status diagram.
 
 **Data Intern @ LTI Mindtree (_Feb 2023 — June 2023_)**
 - Received training in basic data science software and principles, significantly improving accuracy levels during the internship.
