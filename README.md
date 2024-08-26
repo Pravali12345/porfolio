@@ -15,5 +15,10 @@
 **Data Intern @ LTI Mindtree (_Feb 2023 — June 2023_)**
 - Received training in basic data science software and principles, significantly improving accuracy levels during the internship.
 
+**Data Intern @ Oriana Informa1on Technologies LLP (11/2022 - 04/2023)**
+- Acquired deep knowledge on Machine Learning algorithms by doing hands-on Project
+
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
+### Contact Tracing using ML 
+Used **ML Modeling** mainly DBSCAN as my json file consisted of latitude and longitude information instead of phone numbers which helps in protecting the people's privacy. 
+ContactTracing
