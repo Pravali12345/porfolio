@@ -6,7 +6,7 @@
 
 ## Education
 - M.S.Computer Science | University of Central Missouri (Expected Graduation, May 2025)								       			 			        		
-- B.Tech.Computer Science(SplDataAnalytics) | Vellore Institute of Technology (May 2023)
+- B.Tech.Computer Science (SplDataAnalytics) | Vellore Institute of Technology (May 2023)
 
 ## Work Experience
 
