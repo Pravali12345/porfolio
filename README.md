@@ -4,17 +4,10 @@
 #### Technical Skills: Python, R, SQL, MATLAB, MongoDB, Tableau, Microsoft Office
 #### Data Science Libraries: Pandas, NumPy, OpenCV, Matplotlib, Seaborn, sklearn, scikit-learn, TensorFlow, SciPy
 
-## Education
-- M.S.Computer Science | University of Central Missouri (Expected Graduation, May 2025)								       			 			        		
+## Education							       			 			        		
 - B.Tech.Computer Science (SplDataAnalytics) | Vellore Institute of Technology (May 2023)
 
 ## Work Experience
-
-**Open source project @ HydroTek Farm (Github) (_May 2024 — Present_)**
-- Expanded the project by incorporating a camera for hydroponic farm disease detection and training a model with Roboflow to predict plant diseases and provide clients with remediation instructions.
-- The model will soon be integrated into an NVIDIA Jetson, which will be connected to an Iot box for real-time monitoring.
-- Led the charge in assembling data on particular plants and was instrumental in updating the status diagram.
-
 **Data Intern @ LTI Mindtree (_Feb 2023 — June 2023_)**
 - Received training in basic data science software and principles, significantly improving accuracy levels during the internship.
 
@@ -39,9 +32,6 @@ Developed an online food ordering system for easy order placement, order trackin
 **What's so new??**
 ![EmotionalEating](/assets/img/EmotionalEatingBED.jpg)
 Together with the types of cuisine I added food that are often consumed during particular season to make the taste palate of the user happy at that time. I took an idea from emotional eating topic and provided the user an option to store their food according to their mood.
-
-### Music genre classification   
-This system accurately categorizes songs based on their style, which supports music recommendation systems, personalized playlists, and targeted marketing strategies for various domains, including streaming platforms, radio stations, and advertising using Machine Learning classification models.
 
 ### Do Left hand People Really Die Young 
 The percentage of left-handed people did increase significantly in the 20th century. The primary goal is to dispel the myth that people die young from sin, which is one of the most ridiculous excuses we are told. And to prove this I used **Bayes' rule** 
