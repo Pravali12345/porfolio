@@ -1,5 +1,5 @@
 # Portfolio
-# Data Science Enthusiast
+
 
 #### Technical Skills: Python, R, SQL, MATLAB, MongoDB, Tableau, Microsoft Office
 #### Data Science Libraries: Pandas, NumPy, OpenCV, Matplotlib, Seaborn, sklearn, scikit-learn, TensorFlow, SciPy
